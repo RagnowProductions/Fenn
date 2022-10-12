@@ -1,0 +1,15 @@
+target Web() {
+  void Header {
+    var pageTitle = "Fenn Website"
+    var pageFavicon = "Fenn.ico"
+  }
+  void Body {
+    var Header1Text = "Fenn Website"
+    var Header2Text = "Fenn Website h2"
+    var Header3Text = "Fenn Website h3"
+    var paragraphText = "Hi there!"
+    var button.text = "Hi"
+    var button.action = changeText(paragraphText, "How Are You?")
+    var photo = "goodpic.png"
+  }
+}
