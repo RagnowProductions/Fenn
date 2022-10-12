@@ -1,0 +1,3 @@
+target App() {
+  var player = "Main.png"
+  var player.controller = "Control.cs"
