@@ -1,4 +1,3 @@
-::"This Is An Unfinished Template - Do Not Copy/Paste This File Until It Is Finished."::
 target App() {
   var player = "Main.png"
   var player.controller = "Control.cs"
