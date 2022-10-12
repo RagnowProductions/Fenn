@@ -25,4 +25,5 @@ target App() {
   var timer.onout = "Timer Done.cs"
   var bg = "Background.png"
   placement ground.g1 = "inf 20 inf"
+  placement ground.g2 = "20-37 27 20"
 }
