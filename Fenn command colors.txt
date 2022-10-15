@@ -1,0 +1,8 @@
+target = #C35817
+loop = #dad7c8
+var = #e7e7e2
+placement = #96a0a3
+if = #985629
+open = #C35817
+edit = #C35817
+delete = #C35817
