@@ -1,0 +1,9 @@
+target 30() {
+  var normal = "This FENN file is now of the standard. Press E to close."
+  placement normal = x="window.left" y="window.top"
+  forever {
+    if script.drive.keyboard.keyPressed = "e" {
+      close(script)
+    }
+  }
+}
